@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+  font-size: 18px;
+  font-style: none;
+  font-weight: normal;
+
+  /* background-color: #aaa; */
+  /* background-image: url("fbnm.jpeg"); */
+  background-color:rgb(51,79,255);
+
+  margin:0
+  padding: 10% 20% 30% 40%;
+
+  color:pink;
+
+}
+
+/* rgba(128,0,0) */
+  /* background-image: none; */
